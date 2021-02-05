@@ -14,3 +14,16 @@ servidor de correos de gogle
 ```bash
 .\Kitchen.bat -file="data-warehouse/master_job.kjb" -level=Minimal >> C:\Data_integration\data-warehouse\log.txt
 ```
+
+
+
+## analisi y diseño 
+
+### reporteria 
+1. impresion: desventaja costo
+
+2. consideracion para el diseño de reportes:
+- Encabezado o titulo del reporte
+- numero de paginas
+- fecha de creacion del documento (puede llevar dos fechas, de cuando son los datos y cuando se imprimio)
+- titulo de columna:  
