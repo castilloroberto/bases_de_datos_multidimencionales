@@ -27,3 +27,5 @@ servidor de correos de gogle
 - numero de paginas
 - fecha de creacion del documento (puede llevar dos fechas, de cuando son los datos y cuando se imprimio)
 - titulo de columna:  
+3. Consideraciones esteticas 
+- Diferencias titulos y subtitulos
