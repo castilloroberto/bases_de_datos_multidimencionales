@@ -14,12 +14,17 @@ servidor de correos de gogle
 ```bash
 .\Kitchen.bat -file="data-warehouse/master_job.kjb" -level=Minimal >> C:\Data_integration\data-warehouse\log.txt
 ```
+## 05/02/2021
 
+1. realizar investigacion
+Dimenciones:
+- Productos
+- sucursales
+- tiempo
 
+## Analisis y Diseño 
 
-## analisi y diseño 
-
-### reporteria 
+### Reporteria 
 1. impresion: desventaja costo
 
 2. consideracion para el diseño de reportes:
