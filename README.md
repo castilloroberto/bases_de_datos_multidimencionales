@@ -28,8 +28,10 @@ servidor de correos de gogle
 2. Dimenciones:
 - Productos
 - sucursales
-- tiempo
-
+- tiempo pasos (generate rows)
+- what is this: producto cartesiano 
+3. las dimenciones de un cubo tienen categorias
+- 
 ## Analisis y Diseño 
 
 ### Reporteria 
