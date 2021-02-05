@@ -1,6 +1,7 @@
 # Bases de Datos Multidimencionales
 
 ## ETL Extract, transform and load 
+Extraer, transformar y cargar
 ## 04/02/2021
 servidor de correos de gogle 
 > smtp.gmail.com
