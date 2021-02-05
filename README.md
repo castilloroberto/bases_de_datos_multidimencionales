@@ -24,7 +24,7 @@ servidor de correos de gogle
 - crear una tarea programada en windows que ejecute el archivo .bat ( lo ejecute una vez al dia a la hora de cierre de la empresa x)
 - x: 8:00 PM 
 - nombre de la tarea: poblar datawarehouse. 
-Dimenciones:
+2. Dimenciones:
 - Productos
 - sucursales
 - tiempo
