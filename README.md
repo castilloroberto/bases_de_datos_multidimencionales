@@ -17,6 +17,12 @@ servidor de correos de gogle
 ```
 ## 05/02/2021
 
+## Funciones
+```javascript
+function cuadrado(x){
+    return x * x 
+}
+```
 1. realizar investigacion
 - como se crea una tarea programada en windows como configurarla
 - que puede o que lleva un archivo .bat
