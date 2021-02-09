@@ -25,6 +25,7 @@ function cuadrado(x){
 ```
 ## Funciones Matematicas
 > f(x) = x * x
+
 Donde x es cualquier valor que se nos ocurra
 > f(4) = 4 * 4
 > y = 16
