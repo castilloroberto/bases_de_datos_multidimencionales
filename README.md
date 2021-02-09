@@ -23,6 +23,13 @@ function cuadrado(x){
     return x * x 
 }
 ```
+## Funciones Matematicas
+> f(x) = x * x
+Donde x es cualquier valor que se nos ocurra
+> f(4) = 4 * 4
+> y = 16
+Decimos que esta funcion retorna 16
+
 1. realizar investigacion
 - como se crea una tarea programada en windows como configurarla
 - que puede o que lleva un archivo .bat
