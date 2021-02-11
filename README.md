@@ -45,7 +45,25 @@ Decimos que esta funcion retorna 16
 - tiempo pasos (generate rows)
 - what is this: producto cartesiano 
 3. las dimenciones de un cubo tienen categorias
-- 
+
+## Examen Primer Parcial
+1. direrencias entre bases de datos relacionales y Dimencionales
+- Buscan reducir la redondancia
+2. Elemento de un cubo
+- Hechos que forman el cubo al ruzar una linea del cubo
+3. Step a usar en lugar del dummy
+- Correo electronico al producirse un error
+4. Fuente de datos para poblar datawarehouse
+- cualquiera (bases de datos, hojas de excel)
+5. desventaja de usar exel para datawarehouse.
+- No tiene muchas herramientas de ETL.
+6. Que tiene mas importancia en la creacion de un DataWareHouse
+- El diseño que tendra
+
+
+
+
+
 ## Analisis y Diseño 
 
 ### Reporteria 
