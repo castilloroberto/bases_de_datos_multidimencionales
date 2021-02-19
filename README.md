@@ -60,8 +60,8 @@ Decimos que esta funcion retorna 16
 6. Que tiene mas importancia en la creacion de un DataWareHouse
 - El diseño que tendra
 
-
-
+## Pasos Para Crear un Cubo OLAP
+* Primer Paso
 
 
 ## Analisis y Diseño 
